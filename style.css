@@ -1,0 +1,22 @@
+img{
+    height:370px;
+   width:500px;
+}
+.image{
+    background-color: mediumpurple;
+    margin-left: 25px;
+    margin-right:25px;
+}
+.section{
+    display:flex;
+    justify-content: center
+    
+}
+body{
+    text-align: center;
+    background-color: palevioletred;
+    
+}
+div{
+    margin: 10px
+}
